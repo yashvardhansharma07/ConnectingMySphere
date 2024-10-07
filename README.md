@@ -3,14 +3,14 @@
 
 It is a full-stack social media platform for user interaction and content sharing.
 ## Key Features:
--User registration, login, and Google authentication. Upload and interact with various content types, customize profiles.
--Modern libraries and tools like Tailwind CSS, Redux, Material UI, and Formik for seamless UI/UX.
--Spring Security is used to secure the user data using JSON Web Tokens (JWT). Postman for documenting APIs.
--Cloudinary used for Cloud and Deployment for media uploads.
+- User registration, login, and Google authentication. Upload and interact with various content types, customize profiles.
+- Modern libraries and tools like Tailwind CSS, Redux, Material UI, and Formik for seamless UI/UX.
+- Deployed media uploads on cloud using Cloudinary and frontend on Vercel and tested by 10+ people.
+- Used Spring Security to secure user data using JWT and Postman for documenting 15+ APIs.
 ## Technology Used: 
--Frontend- ReactJs, TailwindCSS
--Backend- Spring Boot, Spring Data JPA( Hibernate), Spring Security
--Databse- MySQL.
+- Frontend- ReactJs, TailwindCSS, Material UI, Redux
+- Backend- Spring Boot, Spring Data JPA( Hibernate), Spring Security
+- Databse- MySQL.
 
 # Project
 ##  Register
